@@ -4,9 +4,7 @@
 
 ### **📌 Introduction**
 
-This repository contains the Jupyter Notebook **`EDA.ipynb`**, which performs an in-depth **Exploratory Data Analysis (EDA)**
-
-This project focuses on analyzing sales data from an online marketplace to extract meaningful business insights.
+This project focuses on analyzing sales data from an online marketplace, which performs an in-depth **Exploratory Data Analysis (EDA)**
 
 ## 🛠️ Tools & Libraries
 - **pandas** – data manipulation and cleaning  
