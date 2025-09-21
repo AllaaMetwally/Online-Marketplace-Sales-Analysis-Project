@@ -2,7 +2,7 @@
 
 
 
-**📌 Introduction**
+### **📌 Introduction**
 
 This repository contains the Jupyter Notebook **`EDA.ipynb`**, which performs an in-depth **Exploratory Data Analysis (EDA)**
 
